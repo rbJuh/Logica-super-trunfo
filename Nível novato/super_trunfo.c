@@ -1,4 +1,7 @@
 #include <stdio.h>
+// Desafio Super Trunfo - Países
+// Tema 2 - Desenvolvendo a Lógica do jogo
+// Nível novato.
 
 // Variáveis da carta 1
 char estado1;                // Letra do estado (A, B, C, ..., H)
